@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "additionalProperties": false,
+    "type": "object" ,
+    "javaType": "Statement",
+    "properties": {
+        "statementId" : {"type":"string", "format":"utc-millisec"} ,
+        "timestamp": { "type": "string",  "format" : "date-time"},
+        "stored": { "type": "string",  "format" : "date-time"},
+        "version":   { "type": "string" },
+        "completed" : {"type":"string", "enum":["YES", "NO"]},
+        "authority" :  {"$ref": "#/definitions/actor"},
+        "actor" : {"$ref": "#/definitions/actor"},
+        "object" :  {"$ref": "statementobject.json"},
+        "verb" :  {"$ref": "#/definitions/verb"}
+    },
+    "definitions" :{
+        "account": {
+            "additionalProperties": false,
+            "type": "object",
+            "javaType": "Account",
+            "properties": {
+                "homepage": { "type": "string" },
+                "name":           { "type": "string" }
+            },
+            "required": ["homepage", "name"]
+        },
+        "actor" : {
+            "additionalProperties": false,
+            "type": "object" ,
+            "javaType": "Actor",
+            "properties": {
+                "objectType": { "type": "string" },
+                "name":           { "type": "string" },
+                "mbox":          { "type": "string" },
+                "mboxSha1sum" :  { "type": "string" },
+                "openId":   { "type": "string" },
+                "account" : {"$ref": "#/definitions/account", "type": "object"},
+                "members" : {"type": "array", "items" : {"$ref":"#/definitions/actor"}}
+            }
+        },
+        "verb" : {
+            "additionalProperties": false,
+            "type": "object" ,
+            "javaType": "Verb",
+            "properties": {
+                "id": { "type": "string"},
+                "display": { "type": "object",  "javaType" : "java.util.Map<String,String>"}
+            }
+        },
+        "statementobject" : {
+            "additionalProperties": false,
+            "type": "object" ,
+            "javaType": "StatementObject",
+            "extends" : {
+                "type": "object",
+                "javaType" : "java.util.Map<String,String>"
+            },
+            "javaType": "StatementObject",
+            "properties": {
+            }
+        }
+
+    }
+}

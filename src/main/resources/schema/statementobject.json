@@ -1,0 +1,14 @@
+
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "additionalProperties": false,
+    "type": "object" ,
+    "extends" : {
+        "type": "object",
+        "javaType" : "java.util.Map<String,String>"
+    },
+    "javaType": "StatementObject",
+    "properties": {
+
+    }
+}

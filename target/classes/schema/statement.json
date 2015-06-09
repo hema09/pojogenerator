@@ -1,0 +1,17 @@
+{
+"$schema": "http://json-schema.org/draft-04/schema#",
+"additionalProperties": false,
+"type": "object" ,
+"javaType": "Statement",
+"properties": {
+    "timestamp": { "type": "string",  "format" : "date-time"},
+    "stored": { "type": "string",  "format" : "date-time"},
+    "authority" :  {"$ref": "actor.json"},
+    "version":   { "type": "string" },
+    "actor" : {"$ref": "actor.json"},
+    "object" :  {"$ref": "statementobject.json"},
+    "verb" :  {"$ref": "verb.json"},
+    "statementId" : {"type":"string", "format":"utc-millisec"} ,
+    "completed" : {"type":"string", "enum":["YES", "NO"]}
+}
+}

@@ -1,0 +1,100 @@
+{
+    "additionalProperties": false,
+    "type": "object",
+    "javaType": "SampleClass",
+    "properties": {
+        "blahblah": {
+            "type": "Object"
+        },
+        "authority": {
+            "javaType": "Actor"
+        },
+        "minutes": {
+            "type": "integer"
+        },
+        "verb": {
+            "javaType": "Verb"
+        },
+        "marks": {
+            "type": "string",
+            "format": "utc-millisec"
+        },
+        "actor": {
+            "type": "array",
+            "items": {
+                "javaType": "Actor"
+            }
+        },
+        "createDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "statementId": {
+            "type": "string",
+            "format": "utc-millisec"
+        },
+        "updateDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "completed": {
+            "type": "Object"
+        }
+    },
+    "definitions": {
+        "verb": {
+            "additionalProperties": false,
+            "type": "object",
+            "javaType": "Verb",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "display": {
+                    "type": "object",
+                    "javaType": "java.util.Map<String,String>"
+                }
+            }
+        },
+        "account": {
+            "additionalProperties": false,
+            "type": "object",
+            "javaType": "Account",
+            "properties": {
+                "homepage": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        },
+        "actor": {
+            "additionalProperties": false,
+            "type": "object",
+            "javaType": "Actor",
+            "properties": {
+                "createDate": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "id": {
+                    "type": "string",
+                    "format": "utc-millisec"
+                },
+                "members": {
+                    "type": "array",
+                    "items": {
+                        "javaType": "Actor"
+                    }
+                },
+                "account": {
+                    "javaType": "Account"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

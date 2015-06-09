@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <title>Pojo</title>
+    <link href="bootstrap.css" rel="stylesheet">
+    <link href="bootstrap-theme.css" rel="stylesheet">
+    <script src="angular.js"></script>
+    <script src="angular-route.js"></script>
+    <script src="app.js"></script>
+</head>
+<style type="text/css">
+    body {
+        padding-top: 10px;
+    }
+    #withfixednav {
+        padding-top: 70px;
+    }
+    textarea {
+        height: auto;
+        width: 100%;
+        padding : 1px;
+    }
+    #or {
+        color: red;
+    }
+    #fieldinput {
+        display: inline;
+    }
+</style>
+<body ng-controller="mainCtrl">
+<div class="container">
+    <div class="col-sm-12">
+        <div class="well">
+            <form name="fieldForm" novalidate>
+                <div id="fieldinput">
+                    <input type="text" name="fieldname" ng-model="field.name" placeholder="Fieldname" ng-pattern="validInput">
+                    <select ng-model="field.type" ng-options="type for type in types">
+                        <option value=''>--Field Type--</option>
+                    </select>
+                    <input ng-show="isOtherClass(field.type)" type="text" ng-model="field.classname" >
+                
+	            <span style="color:red" ng-show="fieldForm.fieldname.$dirty && fieldForm.fieldname.$invalid">
+	            	<span ng-show="fieldForm.fieldname.$error">Field Name must be a valid java variable name and is required</span>
+	            </span>
+                </div>
+                <div id="fieldinput" ng-show="isList(field.type)">
+
+                    <select ng-model="field.listObjectTypeBasic" ng-options="type for type in simpletypes" ng-disabled="!!field.listObjectTypeOther" ng-required="!(field.listObjectTypeBasic.length || field.listObjectTypeOther.length)">
+                        <option value="">--select list type--</option>
+                    </select>
+                    <input type="text" name="listother" ng-model="field.listObjectTypeOther" ng-disabled="!!field.listObjectTypeBasic" ng-pattern="validInput" placeholder="or enter a classname">
+                    
+                    <span style="color:red" ng-show="fieldForm.listother.$dirty && fieldForm.listother.$invalid">
+	            		<span ng-show="fieldForm.listother.$error">List type must be valid java class name</span>
+	            	</span>
+                </div>
+
+                <div id="fieldinput" ng-show="isMap(field.type)">
+
+                    <select name="mapkey" ng-model="field.mapKeyType" ng-options="type for type in simpletypes">
+                        <option value="">--select map key type--</option>
+                    </select>
+                    <select ng-model="field.mapValueTypeSimple" ng-options="type for type in simpletypes" ng-disabled="!!field.mapValueTypeClass">
+                        <option value="">--select map value type--</option>
+                    </select>
+                    <input type="text" name="mapother" ng-model="field.mapValueTypeClass" ng-disabled="!!field.mapValueTypeSimple" ng-pattern="validInput" placeholder="or enter a classname">
+                    
+
+                    <span style="color:red" ng-show="fieldForm.mapother.$dirty && fieldForm.mapother.$invalid">
+	            		<span ng-show="fieldForm.mapother.$error">Map key type required and map value type must be valid java class name</span>
+	            	</span>
+                </div>
+            </form>
+        </div>
+        <div class="well" style="text-align: center;">
+            <button class="btn btn-default" ng-click="submit(field)"
+                    ng-disabled="field.name == null || field.type == null ||
+            			(isList(field.type) && !(field.listObjectTypeBasic.length || field.listObjectTypeOther.length)) ||
+            			(isMap(field.type) && (!field.mapKeyType.length || !(field.mapValueTypeSimple.length || field.mapValueTypeClass.length)))">
+                Add this field
+            </button>
+            <button class="btn btn-default" ng-click="getDtoClass()" ng-disabled="isFieldsEmpty()">Generate Class</button>
+            <button class="btn btn-default" ng-click="clearAll()">Clear All</button>
+            <form name="classnameForm">
+                <label for="classField">Enter class name to create:</label>
+                <input type="text" name="classField" ng-model="classname" ng-pattern="validInput" placeholder="(optional)">
+                <span style="color:red" ng-show="classnameForm.classField.$dirty && classnameForm.classField.$invalid">Invalid class name</span>
+            </form>
+        </div>
+        <div ng-hide="isFieldsEmpty()">
+            <table class="table table-condensed table-bordered">
+                <tr>
+                    <th class="col-md-11">Field</th>
+                </tr>
+                <tr ng-repeat="(key,value) in fields">
+                    <td class="col-md-11">{{getTypeString(value)}} {{key}};</td>
+                    <td class="col-md-1"><button ng-click="remove(key)" class="btn btn-default" style="color:red">X</button></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="well col-sm-12">
+        <div class="form-group">
+            <label for="output">Generated Class:</label> <br>
+            <textarea rows="20" id="output">{{dtoclassdata}}</textarea>
+        </div>
+    </div>
+</div>
+</body>
+</html>

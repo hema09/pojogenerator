@@ -1,0 +1,2223 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="ie ie7 oldIE" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 oldIE" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="nonIE" lang="en"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <title>Shibboleth | Internet2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    
+    
+     
+     
+    
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/7e122103-f311-40a3-9caf-e31b72028025.css"/>
+    <link rel="stylesheet" href="/static/CACHE/css/28456759cf18.css" type="text/css" media="all" /><link rel="stylesheet" href="/static/CACHE/css/297155ebeb26.css" type="text/css" /><link rel="stylesheet" href="/static/CACHE/css/73e7baf79f2d.css" type="text/css" media="all" />
+    
+
+    
+    <link href="/static/css/sub.css" rel="stylesheet" type="text/css" media="all">
+    
+
+
+    
+
+    <script type="text/javascript" src="/static/CACHE/js/c846f12229aa.js"></script>
+    
+    
+    
+      
+    
+
+</head>
+
+    <body class="sub productSubpage">
+
+  
+  
+    
+  
+  
+  <!-- HEADER -->
+      <header>
+          <div class="headerContents">
+              <a href="/"><h1 class="ir" title="Internet2">Internet2</h1></a>
+
+              <nav id="navMobile" class="navMobile">
+                  <ul id="topLevel" class="topLevel">
+                      <li><a href="#" id="menuLink" class="menuLink closed">menu</a></li>
+                      <li><a href="#" id="searchLink" class="searchLink closed">search</a></li>
+                      <li class="signinLI"><a href="https://www.internet2.edu/shibboleth-ds/index.html?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F" id="mobileSigninLink" class="mobileSigninLink closed">sign in</a></li>
+                  </ul>
+                  
+                  <ul id="mobileMenu" class="mobileMenu mobileClosed">
+                     
+			
+
+
+
+
+
+
+    <!-- I am in here -->
+
+<ul id="menu-internet2-root" class="menu depth-0">
+    <!-- item internet2-root has depth 0 vs. 1 -->
+    
+    <li id="menu-item-research-solutions" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/research-solutions/" title="Research Solutions">Research Solutions</a>
+            <!-- item research-solutions has depth 1 vs. 1 -->
+            
+    </li>
+    
+    <li id="menu-item-communities-groups" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/communities-groups/members/" title="Communities &amp; Groups">Communities &amp; Groups</a>
+            <!-- item communities-groups has depth 1 vs. 1 -->
+            
+    </li>
+    
+    <li id="menu-item-products-services" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/products-services/" title="Products &amp; Services">Products &amp; Services</a>
+            <!-- item products-services has depth 1 vs. 1 -->
+            
+    </li>
+    
+    <li id="menu-item-vision-initiatives" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/vision-initiatives/" title="Vision &amp; Initiatives">Vision &amp; Initiatives</a>
+            <!-- item vision-initiatives has depth 1 vs. 1 -->
+            
+    </li>
+    
+    <li id="menu-item-news-events" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/news-events/" title="News &amp; Events">News &amp; Events</a>
+            <!-- item news-events has depth 1 vs. 1 -->
+            
+    </li>
+    
+    <li id="menu-item-about-us" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/about-us/" title="About Us">About Us</a>
+            <!-- item about-us has depth 1 vs. 1 -->
+            
+    </li>
+    
+</ul>
+
+
+
+
+
+
+ 
+                    
+                  </ul>
+              </nav>
+              <div class="acctSearchContainer">
+                  <div class="acctWrapper">
+                      <section id="account" class="account pie stateSignedOut">
+                        
+                          <a href="#" id="signInOutOpen" class="signInOutOpen">Sign In</a>
+                        
+      
+                      </section>
+
+                      <section id="accountSignIn" class="accountSignIn pie">
+                          <a href="#" id="closeSignin" class="closeSignin ir" title="Close">close</a>
+                          <!--frame: https://www.internet2.edu/shibboleth-ds/frame.html?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&amp;return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F
+                              ds: https://www.internet2.edu/shibboleth-ds/index.html?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&amp;return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F
+                              lsa: https://www.internet2.edu/Shibboleth.sso/Login?entityID=https%3A%2F%2Flsa.internet2.edu%2Fidp%2Fshibboleth&amp;target=https%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F
+                          -->
+                          
+                            
+                              <div id="idpSelect"></div>
+                              <script type="text/javascript">
+                                  var id_hash = '?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F';
+                                  //id_hash ?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F
+                                  //id_hash0 entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin&target=https%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F
+                                  //var id_hash = '?entityID=https%3A%2F%2Fwebdev.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwebdev7.internet2.edu%2FShibboleth.sso%2FLogin&target=https%3A%2F%2Fwebdev7.internet2.edu%2F';
+                              </script>
+                              <script type="text/javascript" src="/static/CACHE/js/729a4aa9d11d.js"></script>
+                                <noscript>
+                                  Script not supported. Please visit: 
+                                  <a href="https://www.internet2.edu/shibboleth-ds/index.html?entityID=https%3A%2F%2Fservices.internet2.edu%2Fshibboleth&return=https%3A%2F%2Fwww.internet2.edu%2FShibboleth.sso%2FLogin%3Ftarget%3Dhttps%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F">Discovery Service</a> directly  
+                                </noscript>
+                                  <div class="IdPSelectTextDiv">Use Internet2 SiteID</div>
+                                  
+                                  <div id="idpSelectSiteID">
+                                      <p>Already have an Internet2 SiteID?<br />Sign in here.</p>
+                              	    <a href="https://www.internet2.edu/Shibboleth.sso/Login?entityID=https%3A%2F%2Flsa.internet2.edu%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.internet2.edu%2Fproducts-services%2Ftrust-identity-middleware%2Fshibboleth%2F" class="btnSignInOut pie">
+                              	    Internet2 SiteID 
+                              	    </a>
+                                  </div>
+                              	
+                              	<div id="idpCreateSiteID">
+                                      <p>Your organization not listed? Create a local account to use Internet2 services.</p>
+                                       
+                                      <a href="https://www.internet2.edu/idms/user_registrations/new" class="btnSignInOut pie" target="_blank">Create SiteID</a>
+                                  </div>
+                            
+                          
+                      </section>
+                  </div>
+
+                  <section id="search" class="search">
+                      <!--Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
+                      <!--The terms of service are available at http://www.google.com/cse/docs/tos.html -->
+                      <form action="/search/" id="cse-search-box">
+                        <input type="hidden" name="cx" value="005837499705399601518:mioyfjwg54i" />
+                        <input type="hidden" name="cof" value="FORID:10" />
+                        <input type="hidden" name="ie" value="UTF-8" />
+                        <input type="text" name="q" size="25" class="searchInput" placeholder="Search"/>
+                        <input type="submit" name="sa" value="Search" class="searchBtn ir pie"/>
+                      </form>
+                  </section>
+              </div>
+
+              <!-- 
+              id=topNav  class=topNav 
+              ul class=sf-menu
+              li class=rs
+              -->
+              <nav id="topNav" class="topNav">
+                
+                
+
+
+
+
+
+
+
+    <!-- I am in here -->
+
+<ul id="menu-internet2-root" class="menu depth-0">
+    <!-- item internet2-root has depth 0 vs. 3 -->
+    
+    <li id="menu-item-research-solutions" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/research-solutions/" title="Research Solutions">Research Solutions</a>
+            <!-- item research-solutions has depth 1 vs. 3 -->
+            
+                <!-- item research-solutions is less than depth -->
+                
+                
+                <!-- item research-solutions has children -->
+                <ul id="menu-research-solutions" class="menu depth-1">
+                    
+                    <li id="menu-item-research-support" class="inactive-menu-item research-support-child">
+                        <a class="inactive-menu-item-link research-support-child-link" href="http://www.internet2.edu/research-solutions/research-support/" title="Research Support">Research Support</a>
+                            
+                                
+                                
+                                <ul id="menu-research-support" class="menu depth-2">
+                                    
+                                    <li id="menu-item-research-support-center" class="inactive-menu-item research-support-center-child">
+                                        <a class="inactive-menu-item-link research-support-center-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-support-center/" title="Research Support Center">Research Support Center</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-fellows-program" class="inactive-menu-item fellows-program-child">
+                                        <a class="inactive-menu-item-link fellows-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/fellows-program/" title="Fellows Program">Fellows Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-re-network-research-liaison-program" class="inactive-menu-item re-network-research-liaison-program-child">
+                                        <a class="inactive-menu-item-link re-network-research-liaison-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/re-network-research-liaison-program/" title="R&amp;E Network Research Liaison Program">R&amp;E Network Research Liaison Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-wave-program" class="inactive-menu-item research-wave-program-child">
+                                        <a class="inactive-menu-item-link research-wave-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-wave-program/" title="Research Wave Program">Research Wave Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-observatory" class="inactive-menu-item observatory-child">
+                                        <a class="inactive-menu-item-link observatory-child-link" href="http://www.internet2.edu/research-solutions/research-support/observatory/" title="The Observatory">The Observatory</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-hosted-research-program" class="inactive-menu-item hosted-research-program-child">
+                                        <a class="inactive-menu-item-link hosted-research-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/hosted-research-program/" title="Hosted Research Program">Hosted Research Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-funding-support" class="inactive-menu-item research-funding-support-child">
+                                        <a class="inactive-menu-item-link research-funding-support-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-funding-support/" title="Research Funding Support">Research Funding Support</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-case-studies" class="inactive-menu-item case-studies-child">
+                        <a class="inactive-menu-item-link case-studies-child-link" href="http://www.internet2.edu/research-solutions/case-studies/" title="Case Studies">Case Studies</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-presentations" class="inactive-menu-item presentations-child">
+                        <a class="inactive-menu-item-link presentations-child-link" href="http://www.internet2.edu/research-solutions/presentations/" title="Presentations">Presentations</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-communities-groups" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/communities-groups/members/" title="Communities &amp; Groups">Communities &amp; Groups</a>
+            <!-- item communities-groups has depth 1 vs. 3 -->
+            
+                <!-- item communities-groups is less than depth -->
+                
+                
+                <!-- item communities-groups has children -->
+                <ul id="menu-communities-groups" class="menu depth-1">
+                    
+                    <li id="menu-item-members" class="inactive-menu-item members-child">
+                        <a class="inactive-menu-item-link members-child-link" href="http://www.internet2.edu/communities-groups/members/" title="Members">Members</a>
+                            
+                                
+                                
+                                <ul id="menu-members" class="menu depth-2">
+                                    
+                                    <li id="menu-item-higher-education" class="inactive-menu-item higher-education-child">
+                                        <a class="inactive-menu-item-link higher-education-child-link" href="http://www.internet2.edu/communities-groups/members/higher-education/" title="Higher Education">Higher Education</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-affiliate" class="inactive-menu-item affiliate-child">
+                                        <a class="inactive-menu-item-link affiliate-child-link" href="http://www.internet2.edu/communities-groups/members/affiliate/" title="Affiliate">Affiliate</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-industry" class="inactive-menu-item industry-child">
+                                        <a class="inactive-menu-item-link industry-child-link" href="http://www.internet2.edu/communities-groups/members/industry/" title="Industry">Industry</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-education-networks" class="inactive-menu-item research-education-networks-child">
+                                        <a class="inactive-menu-item-link research-education-networks-child-link" href="http://www.internet2.edu/communities-groups/members/research-education-networks/" title="Research &amp; Education Networks">Research &amp; Education Networks</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-groups" class="inactive-menu-item groups-child">
+                        <a class="inactive-menu-item-link groups-child-link" href="http://www.internet2.edu/communities-groups/groups/" title="Groups">Groups</a>
+                            
+                                
+                                
+                                <ul id="menu-groups" class="menu depth-2">
+                                    
+                                    <li id="menu-item-group-trust-identity" class="inactive-menu-item group-trust-identity-child">
+                                        <a class="inactive-menu-item-link group-trust-identity-child-link" href="http://www.internet2.edu/communities-groups/groups/trust-identity-incommon/" title="Trust &amp; Identity (InCommon)  ">Trust &amp; Identity (InCommon)  </a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-governance-groups" class="inactive-menu-item governance-groups-child">
+                                        <a class="inactive-menu-item-link governance-groups-child-link" href="http://www.internet2.edu/communities-groups/groups/governance/" title="Governance">Governance</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-arts-humanities" class="inactive-menu-item group-arts-humanities-child">
+                                        <a class="inactive-menu-item-link group-arts-humanities-child-link" href="http://www.internet2.edu/communities-groups/groups/arts-humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-health-life-sciences" class="inactive-menu-item group-health-life-sciences-child">
+                                        <a class="inactive-menu-item-link group-health-life-sciences-child-link" href="http://www.internet2.edu/communities-groups/groups/health-life-sciences/" title="Health &amp; Life Sciences">Health &amp; Life Sciences</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-science-engineering" class="inactive-menu-item group-science-engineering-child">
+                                        <a class="inactive-menu-item-link group-science-engineering-child-link" href="http://www.internet2.edu/communities-groups/groups/science-engineering/" title="Science &amp; Engineering">Science &amp; Engineering</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-k20-education" class="inactive-menu-item k20-education-child">
+                                        <a class="inactive-menu-item-link k20-education-child-link" href="http://www.internet2.edu/communities-groups/groups/k20-education/" title="K20 Education">K20 Education</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-middleware" class="inactive-menu-item middleware-child">
+                                        <a class="inactive-menu-item-link middleware-child-link" href="http://www.internet2.edu/communities-groups/groups/middleware/" title="Middleware">Middleware</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-security" class="inactive-menu-item security-child">
+                                        <a class="inactive-menu-item-link security-child-link" href="http://www.internet2.edu/communities-groups/groups/security/" title="Security">Security</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-advanced-networking-groups" class="inactive-menu-item advanced-networking-groups-child">
+                                        <a class="inactive-menu-item-link advanced-networking-groups-child-link" href="http://www.internet2.edu/communities-groups/groups/advanced-networking/" title="Advanced Networking">Advanced Networking</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-international-community" class="inactive-menu-item international-community-child">
+                                        <a class="inactive-menu-item-link international-community-child-link" href="http://www.internet2.edu/communities-groups/groups/international-community/" title="International Community">International Community</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-products-services" class="active-menu-item top-level">
+        <a class="active-menu-item-link top-level-link" href="http://www.internet2.edu/products-services/" title="Products &amp; Services">Products &amp; Services</a>
+            <!-- item products-services has depth 1 vs. 3 -->
+            
+                <!-- item products-services is less than depth -->
+                
+                
+                <!-- item products-services has children -->
+                <ul id="menu-products-services" class="menu depth-1">
+                    
+                    <li id="menu-item-advanced-networking" class="inactive-menu-item advanced-networking-child">
+                        <a class="inactive-menu-item-link advanced-networking-child-link" href="http://www.internet2.edu/products-services/advanced-networking/" title="Advanced Networking">Advanced Networking</a>
+                            
+                                
+                                
+                                <ul id="menu-advanced-networking" class="menu depth-2">
+                                    
+                                    <li id="menu-item-layer-3-services" class="inactive-menu-item layer-3-services-child">
+                                        <a class="inactive-menu-item-link layer-3-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-3-services/" title="Layer 3 Services">Layer 3 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-layer-2-services" class="inactive-menu-item layer-2-services-child">
+                                        <a class="inactive-menu-item-link layer-2-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-2-services/" title="Layer 2 Services">Layer 2 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-layer-1-services" class="inactive-menu-item layer-1-services-child">
+                                        <a class="inactive-menu-item-link layer-1-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-1-services/" title="Layer 1 Services">Layer 1 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-global-services" class="inactive-menu-item global-services-child">
+                                        <a class="inactive-menu-item-link global-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/global-services/" title="Global Services">Global Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-custom-networks" class="inactive-menu-item custom-networks-child">
+                                        <a class="inactive-menu-item-link custom-networks-child-link" href="http://www.internet2.edu/products-services/advanced-networking/custom-networks/" title="Custom Networks">Custom Networks</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-cloud-services" class="inactive-menu-item cloud-services-child">
+                        <a class="inactive-menu-item-link cloud-services-child-link" href="http://www.internet2.edu/cloud-services/" title="Cloud Services &amp; Applications">Cloud Services &amp; Applications</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-trust-identity-middleware" class="active-menu-item trust-identity-middleware-child">
+                        <a class="active-menu-item-link trust-identity-middleware-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/" title="Trust, Identity &amp; Middleware">Trust, Identity &amp; Middleware</a>
+                            
+                                
+                                
+                                <ul id="menu-trust-identity-middleware" class="menu depth-2">
+                                    
+                                    <li id="menu-item-incommon-federation" class="inactive-menu-item incommon-federation-child">
+                                        <a class="inactive-menu-item-link incommon-federation-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-federation/" title="InCommon Federation">InCommon Federation</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-certificate-service" class="inactive-menu-item incommon-certificate-service-child">
+                                        <a class="inactive-menu-item-link incommon-certificate-service-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-certificate-service/" title="InCommon Certificate Service">InCommon Certificate Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-assurance-program" class="inactive-menu-item incommon-assurance-program-child">
+                                        <a class="inactive-menu-item-link incommon-assurance-program-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-assurance-program/" title="InCommon Assurance Program">InCommon Assurance Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-multifactor-authentication" class="inactive-menu-item incommon-multifactor-authentication-child">
+                                        <a class="inactive-menu-item-link incommon-multifactor-authentication-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-multifactor-authentication/" title="InCommon Multifactor Authentication">InCommon Multifactor Authentication</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-shibboleth" class="active-menu-item shibboleth-child">
+                                        <a class="active-menu-item-link shibboleth-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/shibboleth/" title="Shibboleth">Shibboleth</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-grouper" class="inactive-menu-item grouper-child">
+                                        <a class="inactive-menu-item-link grouper-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/grouper/" title="Grouper">Grouper</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-comanage" class="inactive-menu-item comanage-child">
+                                        <a class="inactive-menu-item-link comanage-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/comanage/" title="COmanage">COmanage</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-eduperson-eduorg" class="inactive-menu-item eduperson-eduorg-child">
+                                        <a class="inactive-menu-item-link eduperson-eduorg-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/eduperson-eduorg/" title="eduPerson &amp; eduOrg">eduPerson &amp; eduOrg</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-mace-registries" class="inactive-menu-item mace-registries-child">
+                                        <a class="inactive-menu-item-link mace-registries-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/mace-registries/" title="MACE Registries">MACE Registries</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-performance-analytics" class="inactive-menu-item performance-analytics-child">
+                        <a class="inactive-menu-item-link performance-analytics-child-link" href="http://www.internet2.edu/products-services/performance-analytics/" title="Performance &amp; Analytics">Performance &amp; Analytics</a>
+                            
+                                
+                                
+                                <ul id="menu-performance-analytics" class="menu depth-2">
+                                    
+                                    <li id="menu-item-deepfield-analytics-service" class="inactive-menu-item deepfield-analytics-service-child">
+                                        <a class="inactive-menu-item-link deepfield-analytics-service-child-link" href="http://www.internet2.edu/products-services/performance-analytics/deepfield-analytics-service/" title="Deepfield Analytics Service">Deepfield Analytics Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance-assurance-service" class="inactive-menu-item performance-assurance-service-child">
+                                        <a class="inactive-menu-item-link performance-assurance-service-child-link" href="http://www.internet2.edu/products-services/performance-analytics/performance-assurance-service/" title="Performance Assurance Service">Performance Assurance Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance-tools" class="inactive-menu-item performance-tools-child">
+                                        <a class="inactive-menu-item-link performance-tools-child-link" href="http://www.internet2.edu/products-services/performance-analytics/performance-tools/" title="Performance Tools">Performance Tools</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-support" class="inactive-menu-item support-child">
+                        <a class="inactive-menu-item-link support-child-link" href="http://www.internet2.edu/products-services/support/" title="Support">Support</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-vision-initiatives" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/vision-initiatives/" title="Vision &amp; Initiatives">Vision &amp; Initiatives</a>
+            <!-- item vision-initiatives has depth 1 vs. 3 -->
+            
+                <!-- item vision-initiatives is less than depth -->
+                
+                
+                <!-- item vision-initiatives has children -->
+                <ul id="menu-vision-initiatives" class="menu depth-1">
+                    
+                    <li id="menu-item-executive-insights" class="inactive-menu-item executive-insights-child">
+                        <a class="inactive-menu-item-link executive-insights-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/" title="Executive Insights">Executive Insights</a>
+                            
+                                
+                                
+                                <ul id="menu-executive-insights" class="menu depth-2">
+                                    
+                                    <li id="menu-item-history-excellence" class="inactive-menu-item history-excellence-child">
+                                        <a class="inactive-menu-item-link history-excellence-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/history-excellence/" title="History of Excellence">History of Excellence</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-strategic-leadership" class="inactive-menu-item strategic-leadership-child">
+                                        <a class="inactive-menu-item-link strategic-leadership-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/strategic-leadership/" title="Strategic Leadership">Strategic Leadership</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-technology-advantage" class="inactive-menu-item technology-advantage-child">
+                                        <a class="inactive-menu-item-link technology-advantage-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/technology-advantage/" title="Technology Advantage">Technology Advantage</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-community-driven" class="inactive-menu-item community-driven-child">
+                                        <a class="inactive-menu-item-link community-driven-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/community-driven/" title="Community Driven">Community Driven</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-next-generation-solutions" class="inactive-menu-item next-generation-solutions-child">
+                                        <a class="inactive-menu-item-link next-generation-solutions-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/next-generation-solutions/" title="Next Generation Solutions">Next Generation Solutions</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-end-to-end-research-support" class="inactive-menu-item end-to-end-research-support-child">
+                                        <a class="inactive-menu-item-link end-to-end-research-support-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/end-to-end-research-support/" title="End-to-End Research Support">End-to-End Research Support</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-governance" class="inactive-menu-item governance-child">
+                        <a class="inactive-menu-item-link governance-child-link" href="http://www.internet2.edu/vision-initiatives/governance/" title="Governance">Governance</a>
+                            
+                                
+                                
+                                <ul id="menu-governance" class="menu depth-2">
+                                    
+                                    <li id="menu-item-board-trustees" class="inactive-menu-item board-trustees-child">
+                                        <a class="inactive-menu-item-link board-trustees-child-link" href="http://www.internet2.edu/vision-initiatives/governance/board-trustees/" title="Board of Trustees">Board of Trustees</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-program-advisory-groups" class="inactive-menu-item program-advisory-groups-child">
+                                        <a class="inactive-menu-item-link program-advisory-groups-child-link" href="http://www.internet2.edu/vision-initiatives/governance/program-advisory-groups/" title="Program Advisory Groups">Program Advisory Groups</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-partnerships" class="inactive-menu-item partnerships-child">
+                        <a class="inactive-menu-item-link partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/" title="Partnerships">Partnerships</a>
+                            
+                                
+                                
+                                <ul id="menu-partnerships" class="menu depth-2">
+                                    
+                                    <li id="menu-item-industry-partnerships" class="inactive-menu-item industry-partnerships-child">
+                                        <a class="inactive-menu-item-link industry-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/industry-partnerships/" title="Industry Partnerships">Industry Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-international-partnerships" class="inactive-menu-item international-partnerships-child">
+                                        <a class="inactive-menu-item-link international-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/international-partnerships/" title="International Partnerships">International Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-network-partnerships" class="inactive-menu-item network-partnerships-child">
+                                        <a class="inactive-menu-item-link network-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/network-partnerships/" title="Network Partnerships">Network Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-initiatives" class="inactive-menu-item initiatives-child">
+                        <a class="inactive-menu-item-link initiatives-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/" title="Initiatives">Initiatives</a>
+                            
+                                
+                                
+                                <ul id="menu-initiatives" class="menu depth-2">
+                                    
+                                    <li id="menu-item-innovation-platform" class="inactive-menu-item innovation-platform-child">
+                                        <a class="inactive-menu-item-link innovation-platform-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/innovation-platform/" title="Innovation Platform">Innovation Platform</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-internet2-netplus" class="inactive-menu-item internet2-netplus-child">
+                                        <a class="inactive-menu-item-link internet2-netplus-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/internet2-netplus/" title="Internet2 NET+">Internet2 NET+</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-trust-identity-education-research" class="inactive-menu-item trust-identity-education-research-child">
+                                        <a class="inactive-menu-item-link trust-identity-education-research-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/trust-identity-education-research/" title="Trust &amp; Identity in Education &amp; Research">Trust &amp; Identity in Education &amp; Research</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance" class="inactive-menu-item performance-child">
+                                        <a class="inactive-menu-item-link performance-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/performance/" title="Performance">Performance</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-us-ucan" class="inactive-menu-item us-ucan-child">
+                                        <a class="inactive-menu-item-link us-ucan-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/us-ucan/" title="U.S. UCAN">U.S. UCAN</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-policy-issues" class="inactive-menu-item policy-issues-child">
+                        <a class="inactive-menu-item-link policy-issues-child-link" href="http://www.internet2.edu/vision-initiatives/policy-issues/" title="Policy Issues">Policy Issues</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-news-events" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/news-events/" title="News &amp; Events">News &amp; Events</a>
+            <!-- item news-events has depth 1 vs. 3 -->
+            
+                <!-- item news-events is less than depth -->
+                
+                
+                <!-- item news-events has children -->
+                <ul id="menu-news-events" class="menu depth-1">
+                    
+                    <li id="menu-item-news" class="inactive-menu-item news-child">
+                        <a class="inactive-menu-item-link news-child-link" href="http://www.internet2.edu/news-events/news/" title="News">News</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-events" class="inactive-menu-item events-child">
+                        <a class="inactive-menu-item-link events-child-link" href="http://www.internet2.edu/news-events/events/" title="Events">Events</a>
+                            
+                                
+                                
+                                <ul id="menu-events" class="menu depth-2">
+                                    
+                                    <li id="menu-item-global-summit" class="inactive-menu-item global-summit-child">
+                                        <a class="inactive-menu-item-link global-summit-child-link" href="http://www.internet2.edu/news-events/events/global-summit/" title="Global Summit">Global Summit</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-technology-exchange" class="inactive-menu-item technology-exchange-child">
+                                        <a class="inactive-menu-item-link technology-exchange-child-link" href="http://www.internet2.edu/news-events/events/technology-exchange/" title="Technology Exchange">Technology Exchange</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-workshops-webinars" class="inactive-menu-item workshops-webinars-child">
+                                        <a class="inactive-menu-item-link workshops-webinars-child-link" href="http://www.internet2.edu/news-events/events/workshops-webinars/" title="Workshops &amp; Webinars">Workshops &amp; Webinars</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-event-sponsorship" class="inactive-menu-item event-sponsorship-child">
+                                        <a class="inactive-menu-item-link event-sponsorship-child-link" href="http://www.internet2.edu/news-events/events/event-sponsorship/" title="Event Sponsorship">Event Sponsorship</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-past-events" class="inactive-menu-item past-events-child">
+                                        <a class="inactive-menu-item-link past-events-child-link" href="http://www.internet2.edu/news-events/events/past-events/" title="Past Events">Past Events</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-social-media" class="inactive-menu-item social-media-child">
+                        <a class="inactive-menu-item-link social-media-child-link" href="http://www.internet2.edu/news-events/social-media/" title="Social Media">Social Media</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-about-us" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/about-us/" title="About Us">About Us</a>
+            <!-- item about-us has depth 1 vs. 3 -->
+            
+                <!-- item about-us is less than depth -->
+                
+                
+                <!-- item about-us has children -->
+                <ul id="menu-about-us" class="menu depth-1">
+                    
+                    <li id="menu-item-membership" class="inactive-menu-item membership-child">
+                        <a class="inactive-menu-item-link membership-child-link" href="http://www.internet2.edu/about-us/membership/" title="Membership">Membership</a>
+                            
+                                
+                                
+                                <ul id="menu-membership" class="menu depth-2">
+                                    
+                                    <li id="menu-item-member-representative-roles" class="inactive-menu-item member-representative-roles-child">
+                                        <a class="inactive-menu-item-link member-representative-roles-child-link" href="http://www.internet2.edu/about-us/membership/member-representative-roles/" title="Member Representative Roles">Member Representative Roles</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-education-network-member-details" class="inactive-menu-item research-education-network-member-details-child">
+                                        <a class="inactive-menu-item-link research-education-network-member-details-child-link" href="http://www.internet2.edu/about-us/membership/research-education-network-member-details/" title="R&amp;E Network Member Details">R&amp;E Network Member Details</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-leadership" class="inactive-menu-item leadership-child">
+                        <a class="inactive-menu-item-link leadership-child-link" href="http://www.internet2.edu/about-us/leadership/" title="Leadership">Leadership</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-financial-overview" class="inactive-menu-item financial-overview-child">
+                        <a class="inactive-menu-item-link financial-overview-child-link" href="http://www.internet2.edu/about-us/financial-overview/" title="Financial Overview">Financial Overview</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-community-awards" class="inactive-menu-item community-awards-child">
+                        <a class="inactive-menu-item-link community-awards-child-link" href="http://www.internet2.edu/about-us/community-awards/" title="Community Awards">Community Awards</a>
+                            
+                                
+                                
+                                <ul id="menu-community-awards" class="menu depth-2">
+                                    
+                                    <li id="menu-item-rose-award" class="inactive-menu-item rose-award-child">
+                                        <a class="inactive-menu-item-link rose-award-child-link" href="http://www.internet2.edu/about-us/community-awards/rose-award/" title="Rose Award">Rose Award</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-presidents-leadership-award" class="inactive-menu-item presidents-leadership-award-child">
+                                        <a class="inactive-menu-item-link presidents-leadership-award-child-link" href="http://www.internet2.edu/about-us/community-awards/presidents-leadership-award/" title="President&#39;s Leadership Award">President&#39;s Leadership Award</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-gender-diversity-award" class="inactive-menu-item gender-diversity-award-child">
+                                        <a class="inactive-menu-item-link gender-diversity-award-child-link" href="http://www.internet2.edu/about-us/community-awards/gender-diversity-award/" title="Gender Diversity Award">Gender Diversity Award</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-staff-directory" class="inactive-menu-item staff-directory-child">
+                        <a class="inactive-menu-item-link staff-directory-child-link" href="http://www.internet2.edu/about-us/staff-directory/" title="Staff Directory">Staff Directory</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-careers" class="inactive-menu-item careers-child">
+                        <a class="inactive-menu-item-link careers-child-link" href="http://www.internet2.edu/about-us/careers/" title="Careers">Careers</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-media-kit" class="inactive-menu-item media-kit-child">
+                        <a class="inactive-menu-item-link media-kit-child-link" href="http://www.internet2.edu/about-us/media-kit/" title="Media Kit">Media Kit</a>
+                            
+                                
+                                
+                                <ul id="menu-media-kit" class="menu depth-2">
+                                    
+                                    <li id="menu-item-video-kit" class="inactive-menu-item video-kit-child">
+                                        <a class="inactive-menu-item-link video-kit-child-link" href="http://www.internet2.edu/about-us/media-kit/video-kit/" title="Video Kit">Video Kit</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-contact-us" class="inactive-menu-item contact-us-child">
+                        <a class="inactive-menu-item-link contact-us-child-link" href="http://www.internet2.edu/about-us/contact-us/" title="Contact Us">Contact Us</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+</ul>
+
+
+
+
+
+
+
+                
+              </nav>
+          </div>
+      </header>
+  
+   
+  
+  <section id="right_content">
+      
+  </section>
+
+  <section id="left_content">
+      
+  </section>
+  
+    <!-- CONTENT -->
+        <div class="background"></div>
+
+  
+  <div id="content" class="page-content">
+    
+    <nav id="breadcrumbs" class="breadcrumbs">
+        
+
+
+<ul>
+
+    <li>
+    
+        <a href="/" title="Home">
+    
+            Home
+    
+        </a>
+    
+    </li>
+
+    <li>
+    
+        <a href="/products-services/" title="Products &amp; Services">
+    
+            Products &amp; Services
+    
+        </a>
+    
+    </li>
+
+    <li>
+    
+        <a href="/products-services/trust-identity-middleware/" title="Trust, Identity &amp; Middleware">
+    
+            Trust, Identity &amp; Middleware
+    
+        </a>
+    
+    </li>
+
+    <li>
+    
+            Shibboleth
+    
+    </li>
+
+</ul>
+
+
+
+<ol>
+    <li class="mobileBack ir"><a href=" /products-services/trust-identity-middleware/ ">Back</a></li>
+    <li class="currentCrumb">
+        <span>Shibboleth</span>
+        <a id="mobileSubnavLink" class="mobileSubnavLink ir more" href="#">more</a>
+    </li>
+</ol>
+
+
+
+
+    </nav>
+
+     
+     
+    
+    <article id="productService" class="productService">
+        <h1>Shibboleth</h1>
+        
+        <div class="articleCols">
+        
+        <!-- ARTICLE NAVIGATION -->
+        <nav id="channelNav" class="channelNav">
+            
+            
+               
+
+
+
+    <ul id="menu-products-services" class="menu depth-1">
+        
+        <li id="menu-item-advanced-networking" class="inactive-menu-item products-services-child">
+            <a class="inactive-menu-item-link products-services-child-link" href="/products-services/advanced-networking/" title="Advanced Networking">Advanced Networking</a>
+            
+                
+
+
+
+    <ul id="menu-advanced-networking" class="menu depth-2">
+        
+        <li id="menu-item-layer-3-services" class="inactive-menu-item advanced-networking-child">
+            <a class="inactive-menu-item-link advanced-networking-child-link" href="/products-services/advanced-networking/layer-3-services/" title="Layer 3 Services">Layer 3 Services</a>
+            
+        </li>
+        
+        <li id="menu-item-layer-2-services" class="inactive-menu-item advanced-networking-child">
+            <a class="inactive-menu-item-link advanced-networking-child-link" href="/products-services/advanced-networking/layer-2-services/" title="Layer 2 Services">Layer 2 Services</a>
+            
+        </li>
+        
+        <li id="menu-item-layer-1-services" class="inactive-menu-item advanced-networking-child">
+            <a class="inactive-menu-item-link advanced-networking-child-link" href="/products-services/advanced-networking/layer-1-services/" title="Layer 1 Services">Layer 1 Services</a>
+            
+        </li>
+        
+        <li id="menu-item-global-services" class="inactive-menu-item advanced-networking-child">
+            <a class="inactive-menu-item-link advanced-networking-child-link" href="/products-services/advanced-networking/global-services/" title="Global Services">Global Services</a>
+            
+        </li>
+        
+        <li id="menu-item-custom-networks" class="inactive-menu-item advanced-networking-child">
+            <a class="inactive-menu-item-link advanced-networking-child-link" href="/products-services/advanced-networking/custom-networks/" title="Custom Networks">Custom Networks</a>
+            
+        </li>
+        
+    </ul>
+    
+
+
+
+            
+        </li>
+        
+        <li id="menu-item-cloud-services" class="inactive-menu-item products-services-child">
+            <a class="inactive-menu-item-link products-services-child-link" href="/cloud-services/" title="Cloud Services &amp; Applications">Cloud Services &amp; Applications</a>
+            
+                
+
+
+
+            
+        </li>
+        
+        <li id="menu-item-trust-identity-middleware" class="active-menu-item products-services-child">
+            <a class="active-menu-item-link products-services-child-link" href="/products-services/trust-identity-middleware/" title="Trust, Identity &amp; Middleware">Trust, Identity &amp; Middleware</a>
+            
+                
+
+
+
+    <ul id="menu-trust-identity-middleware" class="menu depth-2">
+        
+        <li id="menu-item-incommon-federation" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/incommon-federation/" title="InCommon Federation">InCommon Federation</a>
+            
+        </li>
+        
+        <li id="menu-item-incommon-certificate-service" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/incommon-certificate-service/" title="InCommon Certificate Service">InCommon Certificate Service</a>
+            
+        </li>
+        
+        <li id="menu-item-incommon-assurance-program" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/incommon-assurance-program/" title="InCommon Assurance Program">InCommon Assurance Program</a>
+            
+        </li>
+        
+        <li id="menu-item-incommon-multifactor-authentication" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/incommon-multifactor-authentication/" title="InCommon Multifactor Authentication">InCommon Multifactor Authentication</a>
+            
+        </li>
+        
+        <li id="menu-item-shibboleth" class="active-menu-item trust-identity-middleware-child">
+            <a class="active-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/shibboleth/" title="Shibboleth">Shibboleth</a>
+            
+                
+
+
+
+            
+        </li>
+        
+        <li id="menu-item-grouper" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/grouper/" title="Grouper">Grouper</a>
+            
+        </li>
+        
+        <li id="menu-item-comanage" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/comanage/" title="COmanage">COmanage</a>
+            
+        </li>
+        
+        <li id="menu-item-eduperson-eduorg" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/eduperson-eduorg/" title="eduPerson &amp; eduOrg">eduPerson &amp; eduOrg</a>
+            
+        </li>
+        
+        <li id="menu-item-mace-registries" class="inactive-menu-item trust-identity-middleware-child">
+            <a class="inactive-menu-item-link trust-identity-middleware-child-link" href="/products-services/trust-identity-middleware/mace-registries/" title="MACE Registries">MACE Registries</a>
+            
+        </li>
+        
+    </ul>
+    
+
+
+
+            
+        </li>
+        
+        <li id="menu-item-performance-analytics" class="inactive-menu-item products-services-child">
+            <a class="inactive-menu-item-link products-services-child-link" href="/products-services/performance-analytics/" title="Performance &amp; Analytics">Performance &amp; Analytics</a>
+            
+                
+
+
+
+    <ul id="menu-performance-analytics" class="menu depth-2">
+        
+        <li id="menu-item-deepfield-analytics-service" class="inactive-menu-item performance-analytics-child">
+            <a class="inactive-menu-item-link performance-analytics-child-link" href="/products-services/performance-analytics/deepfield-analytics-service/" title="Deepfield Analytics Service">Deepfield Analytics Service</a>
+            
+        </li>
+        
+        <li id="menu-item-performance-assurance-service" class="inactive-menu-item performance-analytics-child">
+            <a class="inactive-menu-item-link performance-analytics-child-link" href="/products-services/performance-analytics/performance-assurance-service/" title="Performance Assurance Service">Performance Assurance Service</a>
+            
+        </li>
+        
+        <li id="menu-item-performance-tools" class="inactive-menu-item performance-analytics-child">
+            <a class="inactive-menu-item-link performance-analytics-child-link" href="/products-services/performance-analytics/performance-tools/" title="Performance Tools">Performance Tools</a>
+            
+        </li>
+        
+    </ul>
+    
+
+
+
+            
+        </li>
+        
+        <li id="menu-item-support" class="inactive-menu-item products-services-child">
+            <a class="inactive-menu-item-link products-services-child-link" href="/products-services/support/" title="Support">Support</a>
+            
+                
+
+
+
+            
+        </li>
+        
+    </ul>
+    
+
+
+
+            
+            
+        </nav>
+        
+        <!-- ARTICLE CONTENT -->
+
+        <section id="channelContent" class="channelContent">
+            
+
+<img id="articleImg" 
+
+    class="articleImg" src="/media/medialibrary/2013/09/09/trust-identity-middleware-03.jpg" 
+
+    
+     />
+    
+
+            
+            
+<!-- Section List (tabs / accordion) -->
+   <ul id="sectionTOC" class="sectionTOC">
+      
+         
+             <li id="service-overview-T" class="sectionTitle service-overviewT" style="width:23%"><a class="titleLink" href="#service-overview">overview</a></li>
+         
+      
+         
+             <li id="service-features-T" class="sectionTitle service-featuresT" style="width:23%"><a class="titleLink" href="#service-features">features</a></li>
+         
+      
+         
+             <li id="service-fees-T" class="sectionTitle service-feesT" style="width:15%"><a class="titleLink" href="#service-fees">fees</a></li>
+         
+      
+         
+             <li id="service-faq-T" class="sectionTitle service-faqT" style="width:14%"><a class="titleLink" href="#service-faq">faq</a></li>
+         
+      
+         
+             <li id="service-participate-T" class="sectionTitle service-participateT" style="width:25%"><a class="titleLink" href="#service-participate">participate</a></li>
+         
+       
+       <li id="fillerLI" class="fillerLI sectionTitle" style="width:0%"><a class="titleLink">&nbsp;</a></li>
+   </ul>
+   
+<div class="articleContent">
+
+     
+
+<!-- overview -->
+<a id="service-overviewTM" class="mobileAcc mobileTitle service-overviewT" href="#service-overview">overview</a>
+<section id="service-overview" class="section tab-content service-overviewS">
+    
+        Shibboleth is a standards based, open source software package for web single sign-on across or within organizational boundaries. It allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner.
+
+For more information, see the Shibboleth Consortium at <a href="http://shibboleth.net/about/">http://shibboleth.net/about/</a>.
+    
+</section>
+
+
+
+     
+
+<!-- features -->
+<a id="service-featuresTM" class="mobileAcc mobileTitle service-featuresT" href="#service-features">features</a>
+<section id="service-features" class="section tab-content service-featuresS">
+    
+        Shibboleth is among the world's most widely deployed federated identity solutions, connecting users to applications both within and between organizations. Every software component of the Shibboleth system is free and open source.
+
+Shibboleth is an open-source project that provides Single Sign-On capabilities and allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner.
+
+For more detailed information, see the Shibboleth Consortium at <a href="http://shibboleth.net/about/basic.html">http://shibboleth.net/about/basic.html</a>.
+    
+</section>
+
+
+
+     
+
+<!-- fees -->
+<a id="service-feesTM" class="mobileAcc mobileTitle service-feesT" href="#service-fees">fees</a>
+<section id="service-fees" class="section tab-content service-feesS">
+    
+        Shibboleth is developed as open source software and is released under the Apache Software License. More information about the individual components is available on the Shibboleth Consortium <a href="http://shibboleth.net/products/index.html">Products page</a>.
+    
+</section>
+
+
+
+     
+
+<!-- faq -->
+<a id="service-faqTM" class="mobileAcc mobileTitle service-faqT" href="#service-faq">faq</a>
+<section id="service-faq" class="section tab-content service-faqS">
+    
+        
+             
+
+<script type="text/javascript">
+    var faq_249410=new switchcontent("switchgroup1");
+    $(document).ready(function() {
+        console.log("Calling swithc content\n");
+        faq_249410.setStatus('<img src="/static/images/minus.gif" />', '<img src="/static/images/plus.gif" />');
+        faq_249410.setClass('expanded', 'collapsed');
+        faq_249410.setPersist(true);
+        faq_249410.defaultExpanded();
+        faq_249410.collapsePrevious(false);
+        faq_249410.init();
+        console.log("Finished calling switch content\n");
+    });
+</script>
+
+<div class="faq-controls-top">
+<span class="showall"><a href="javascript:faq_249410.sweepToggle('expand')">show all</a></span>
+<span class="hideall"><a href="javascript:faq_249410.sweepToggle('contract')">hide all</a></span>
+</div>
+
+
+    <h3 id="faq249411-title" title="Click to expand/collapse">What&#39;s Shibboleth?</h3>
+<div id="faq249411" class="switchgroup1">
+  <h3>Shibboleth is a standards based, open source software package for web single sign-on across or within organizational boundaries. It allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner.</h3>
+
+<p>The Shibboleth software implements widely used federated identity standards, principally the <a href="https://www.oasis-open.org/">OASIS</a> Security Assertion Markup Language (SAML), to provide a federated single sign-on and attribute exchange framework. A user authenticates with his or her organizational credentials, and the organization (or identity provider) passes the minimal identity information necessary to the service provider to enable an authorization decision. Shibboleth also provides extended privacy functionality allowing a user and their home site to control the attributes released to each application.</p>
+
+<p>The Shibboleth project began as an <a href="http://www.internet2.edu">Internet2</a> Middleware activity in 2000, and later that year the project connected with the work of the OASIS SAML Working Group. Shibboleth 1.0 was released in 2003, and was quickly adopted by research and education communities worldwide. With SAML 2.0 in 2005 and Shibboleth 2.0 the following year, the SAML standards grew to include all the multi-lateral, metadata driven approaches pioneered by Shibboleth.</p>
+
+Shibboleth is developed as open source software and is released under the Apache Software License. More information about the individual components is available on the <a href="http://shibboleth.net/products/index.html">Products</a> page.</p>
+
+<p>Shibboleth® is a registered trademark of Internet2®.</p>
+</div>
+
+
+
+<div class="faq-controls-bottom">
+<span class="showall"><a href="javascript:faq_249410.sweepToggle('expand')">show all</a></span>
+<span class="hideall"><a href="javascript:faq_249410.sweepToggle('contract')">hide all</a></span>
+</div>
+
+        
+             <p>To learn more about Shibboleth, visit their website at <a href="http://shibboleth.net/">http://shibboleth.net/</a>.</p>
+        
+    
+</section>
+
+
+
+     
+
+<!-- participate -->
+<a id="service-participateTM" class="mobileAcc mobileTitle service-participateT" href="#service-participate">participate</a>
+<section id="service-participate" class="section tab-content service-participateS">
+    
+        
+             <p>
+For more information on participation and resources, see their page at <a href="http://shibboleth.net/community/">http://shibboleth.net/community/</a>.
+</p>
+        
+    
+</section>
+
+
+
+</div> <!-- /.articleContent -->
+
+        </section>
+        <!-- SIDEBAR -->
+
+        <aside id="subSidebar" class="subSidebar">
+            <div class="asideLogo">
+
+<img  class="imgAsideLogo" 
+
+    src="/media/medialibrary/2013/07/26/Shibboleth_204px.png" 
+
+   alt="Shibboleth logo"  />
+
+</div><div class="service-overview"><dl><dt style="display: none;">Description:</dt>
+<dd>Shibboleth provides Single Sign-On capabilities and allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner.</dd>
+<dt>Subscribers:</dt>
+<dd>open to the Internet2 community</dd><dt>Email:</dt>
+<dd><a href="mailto:i2mi-info@internet2.edu">i2mi-info@internet2.edu</a></dd></dl></div>
+<section class="asideGroups" id="asideGroups">
+  <h3>groups</h3>
+  <ul class="groups" id="groups">
+    
+      <li>
+        
+        <a href="/communities-groups/trust-identity/assurance-advisory-committee/">Assurance Advisory Committee</a>
+        
+      </li>
+    
+      <li>
+        
+        <a href="/communities-groups/middleware/comanage-project/">COmanage Project</a>
+        
+      </li>
+    
+      <li>
+        
+        <a href="/communities-groups/middleware/grouper-working-group/">Grouper Working Group</a>
+        
+      </li>
+    
+  </ul>
+  
+  <a class="btnMore pie" href="/communities-groups/groups/all/all/all/all">More</a>
+  
+</section>
+
+
+
+<section class="asideCaseStudies" id="asideCaseStudies">
+
+    
+    <h3>case studies</h3>
+    
+    <ul class="relatedPages" id="relatedPages">
+        
+        <li><a href="/research-solutions/case-studies/brown-extends-grouper-across-broad-array-applications/">Brown Extends Grouper Across a Broad Array of Applications</a> <span>Apr 20, 2011</span></li>
+        
+        <li><a href="/research-solutions/case-studies/french-organization-combines-grouper-uportal/">French Organization Combines Grouper with uPortal</a> <span>Apr 20, 2010</span></li>
+        
+        <li><a href="/research-solutions/case-studies/grouper-scales-group-management-duke/">Grouper Scales Group Management at Duke U</a> <span>Apr 20, 2010</span></li>
+        
+    </ul>
+
+    
+    
+    <a class="btnMore pie" href="/tags/case-study/trust-identity-incommon,middleware,trust-identity-middleware,shibboleth,trusted-identity-education,saml-based-authentication,single-sign-on,middleware-initiative/title/case%20studies">More</a>
+    
+    
+
+</section>
+
+
+
+            
+        </aside> <!--/subSidebar-->
+    </div> <!--/articleCols -->
+  </article> 
+    
+
+
+  </div> <!--/content -->
+
+  
+  <footer id="fat">
+      <div class="footerContents">
+          <aside id="social" class="social">
+               <ul>
+                    <li class="facebook ir"><a href="http://www.facebook.com/pages/Internet2/139036148088" title="Facebook" target="_blank">Facebook</a></li>
+                    <li class="twitter ir"><a href="http://twitter.com/Internet2" title="Twitter" target="_blank">Twitter</a></li>
+                    <li class="pinterest ir"><a href="http://www.pinterest.com/internet2/" title="Pinterest" target="_blank">Pinterest</a></li>
+                    <li class="linkedin ir"><a href="http://www.linkedin.com/company/internet2" title="LinkedIn" target="_blank">LinkedIn</a></li>
+                    <li class="i2b ir"><a href="/about-us/media-kit/video-kit/" title="Internet2 Video" target="_blank">Internet2 Video</a></li>
+                </ul>
+          </aside>
+          <nav id="fatFooterNav" class="fatFooterNav">
+             
+                
+
+
+
+
+
+
+
+    <!-- I am in here -->
+
+<ul id="menu-internet2-root" class="menu depth-0">
+    <!-- item internet2-root has depth 0 vs. 3 -->
+    
+    <li id="menu-item-research-solutions" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/research-solutions/" title="Research Solutions">Research Solutions</a>
+            <!-- item research-solutions has depth 1 vs. 3 -->
+            
+                <!-- item research-solutions is less than depth -->
+                
+                
+                <!-- item research-solutions has children -->
+                <ul id="menu-research-solutions" class="menu depth-1">
+                    
+                    <li id="menu-item-research-support" class="inactive-menu-item research-support-child">
+                        <a class="inactive-menu-item-link research-support-child-link" href="http://www.internet2.edu/research-solutions/research-support/" title="Research Support">Research Support</a>
+                            
+                                
+                                
+                                <ul id="menu-research-support" class="menu depth-2">
+                                    
+                                    <li id="menu-item-research-support-center" class="inactive-menu-item research-support-center-child">
+                                        <a class="inactive-menu-item-link research-support-center-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-support-center/" title="Research Support Center">Research Support Center</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-fellows-program" class="inactive-menu-item fellows-program-child">
+                                        <a class="inactive-menu-item-link fellows-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/fellows-program/" title="Fellows Program">Fellows Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-re-network-research-liaison-program" class="inactive-menu-item re-network-research-liaison-program-child">
+                                        <a class="inactive-menu-item-link re-network-research-liaison-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/re-network-research-liaison-program/" title="R&amp;E Network Research Liaison Program">R&amp;E Network Research Liaison Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-wave-program" class="inactive-menu-item research-wave-program-child">
+                                        <a class="inactive-menu-item-link research-wave-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-wave-program/" title="Research Wave Program">Research Wave Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-observatory" class="inactive-menu-item observatory-child">
+                                        <a class="inactive-menu-item-link observatory-child-link" href="http://www.internet2.edu/research-solutions/research-support/observatory/" title="The Observatory">The Observatory</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-hosted-research-program" class="inactive-menu-item hosted-research-program-child">
+                                        <a class="inactive-menu-item-link hosted-research-program-child-link" href="http://www.internet2.edu/research-solutions/research-support/hosted-research-program/" title="Hosted Research Program">Hosted Research Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-funding-support" class="inactive-menu-item research-funding-support-child">
+                                        <a class="inactive-menu-item-link research-funding-support-child-link" href="http://www.internet2.edu/research-solutions/research-support/research-funding-support/" title="Research Funding Support">Research Funding Support</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-case-studies" class="inactive-menu-item case-studies-child">
+                        <a class="inactive-menu-item-link case-studies-child-link" href="http://www.internet2.edu/research-solutions/case-studies/" title="Case Studies">Case Studies</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-presentations" class="inactive-menu-item presentations-child">
+                        <a class="inactive-menu-item-link presentations-child-link" href="http://www.internet2.edu/research-solutions/presentations/" title="Presentations">Presentations</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-communities-groups" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/communities-groups/members/" title="Communities &amp; Groups">Communities &amp; Groups</a>
+            <!-- item communities-groups has depth 1 vs. 3 -->
+            
+                <!-- item communities-groups is less than depth -->
+                
+                
+                <!-- item communities-groups has children -->
+                <ul id="menu-communities-groups" class="menu depth-1">
+                    
+                    <li id="menu-item-members" class="inactive-menu-item members-child">
+                        <a class="inactive-menu-item-link members-child-link" href="http://www.internet2.edu/communities-groups/members/" title="Members">Members</a>
+                            
+                                
+                                
+                                <ul id="menu-members" class="menu depth-2">
+                                    
+                                    <li id="menu-item-higher-education" class="inactive-menu-item higher-education-child">
+                                        <a class="inactive-menu-item-link higher-education-child-link" href="http://www.internet2.edu/communities-groups/members/higher-education/" title="Higher Education">Higher Education</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-affiliate" class="inactive-menu-item affiliate-child">
+                                        <a class="inactive-menu-item-link affiliate-child-link" href="http://www.internet2.edu/communities-groups/members/affiliate/" title="Affiliate">Affiliate</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-industry" class="inactive-menu-item industry-child">
+                                        <a class="inactive-menu-item-link industry-child-link" href="http://www.internet2.edu/communities-groups/members/industry/" title="Industry">Industry</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-education-networks" class="inactive-menu-item research-education-networks-child">
+                                        <a class="inactive-menu-item-link research-education-networks-child-link" href="http://www.internet2.edu/communities-groups/members/research-education-networks/" title="Research &amp; Education Networks">Research &amp; Education Networks</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-groups" class="inactive-menu-item groups-child">
+                        <a class="inactive-menu-item-link groups-child-link" href="http://www.internet2.edu/communities-groups/groups/" title="Groups">Groups</a>
+                            
+                                
+                                
+                                <ul id="menu-groups" class="menu depth-2">
+                                    
+                                    <li id="menu-item-group-trust-identity" class="inactive-menu-item group-trust-identity-child">
+                                        <a class="inactive-menu-item-link group-trust-identity-child-link" href="http://www.internet2.edu/communities-groups/groups/trust-identity-incommon/" title="Trust &amp; Identity (InCommon)  ">Trust &amp; Identity (InCommon)  </a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-governance-groups" class="inactive-menu-item governance-groups-child">
+                                        <a class="inactive-menu-item-link governance-groups-child-link" href="http://www.internet2.edu/communities-groups/groups/governance/" title="Governance">Governance</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-arts-humanities" class="inactive-menu-item group-arts-humanities-child">
+                                        <a class="inactive-menu-item-link group-arts-humanities-child-link" href="http://www.internet2.edu/communities-groups/groups/arts-humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-health-life-sciences" class="inactive-menu-item group-health-life-sciences-child">
+                                        <a class="inactive-menu-item-link group-health-life-sciences-child-link" href="http://www.internet2.edu/communities-groups/groups/health-life-sciences/" title="Health &amp; Life Sciences">Health &amp; Life Sciences</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-group-science-engineering" class="inactive-menu-item group-science-engineering-child">
+                                        <a class="inactive-menu-item-link group-science-engineering-child-link" href="http://www.internet2.edu/communities-groups/groups/science-engineering/" title="Science &amp; Engineering">Science &amp; Engineering</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-k20-education" class="inactive-menu-item k20-education-child">
+                                        <a class="inactive-menu-item-link k20-education-child-link" href="http://www.internet2.edu/communities-groups/groups/k20-education/" title="K20 Education">K20 Education</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-middleware" class="inactive-menu-item middleware-child">
+                                        <a class="inactive-menu-item-link middleware-child-link" href="http://www.internet2.edu/communities-groups/groups/middleware/" title="Middleware">Middleware</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-security" class="inactive-menu-item security-child">
+                                        <a class="inactive-menu-item-link security-child-link" href="http://www.internet2.edu/communities-groups/groups/security/" title="Security">Security</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-advanced-networking-groups" class="inactive-menu-item advanced-networking-groups-child">
+                                        <a class="inactive-menu-item-link advanced-networking-groups-child-link" href="http://www.internet2.edu/communities-groups/groups/advanced-networking/" title="Advanced Networking">Advanced Networking</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-international-community" class="inactive-menu-item international-community-child">
+                                        <a class="inactive-menu-item-link international-community-child-link" href="http://www.internet2.edu/communities-groups/groups/international-community/" title="International Community">International Community</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-products-services" class="active-menu-item top-level">
+        <a class="active-menu-item-link top-level-link" href="http://www.internet2.edu/products-services/" title="Products &amp; Services">Products &amp; Services</a>
+            <!-- item products-services has depth 1 vs. 3 -->
+            
+                <!-- item products-services is less than depth -->
+                
+                
+                <!-- item products-services has children -->
+                <ul id="menu-products-services" class="menu depth-1">
+                    
+                    <li id="menu-item-advanced-networking" class="inactive-menu-item advanced-networking-child">
+                        <a class="inactive-menu-item-link advanced-networking-child-link" href="http://www.internet2.edu/products-services/advanced-networking/" title="Advanced Networking">Advanced Networking</a>
+                            
+                                
+                                
+                                <ul id="menu-advanced-networking" class="menu depth-2">
+                                    
+                                    <li id="menu-item-layer-3-services" class="inactive-menu-item layer-3-services-child">
+                                        <a class="inactive-menu-item-link layer-3-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-3-services/" title="Layer 3 Services">Layer 3 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-layer-2-services" class="inactive-menu-item layer-2-services-child">
+                                        <a class="inactive-menu-item-link layer-2-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-2-services/" title="Layer 2 Services">Layer 2 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-layer-1-services" class="inactive-menu-item layer-1-services-child">
+                                        <a class="inactive-menu-item-link layer-1-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/layer-1-services/" title="Layer 1 Services">Layer 1 Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-global-services" class="inactive-menu-item global-services-child">
+                                        <a class="inactive-menu-item-link global-services-child-link" href="http://www.internet2.edu/products-services/advanced-networking/global-services/" title="Global Services">Global Services</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-custom-networks" class="inactive-menu-item custom-networks-child">
+                                        <a class="inactive-menu-item-link custom-networks-child-link" href="http://www.internet2.edu/products-services/advanced-networking/custom-networks/" title="Custom Networks">Custom Networks</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-cloud-services" class="inactive-menu-item cloud-services-child">
+                        <a class="inactive-menu-item-link cloud-services-child-link" href="http://www.internet2.edu/cloud-services/" title="Cloud Services &amp; Applications">Cloud Services &amp; Applications</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-trust-identity-middleware" class="active-menu-item trust-identity-middleware-child">
+                        <a class="active-menu-item-link trust-identity-middleware-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/" title="Trust, Identity &amp; Middleware">Trust, Identity &amp; Middleware</a>
+                            
+                                
+                                
+                                <ul id="menu-trust-identity-middleware" class="menu depth-2">
+                                    
+                                    <li id="menu-item-incommon-federation" class="inactive-menu-item incommon-federation-child">
+                                        <a class="inactive-menu-item-link incommon-federation-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-federation/" title="InCommon Federation">InCommon Federation</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-certificate-service" class="inactive-menu-item incommon-certificate-service-child">
+                                        <a class="inactive-menu-item-link incommon-certificate-service-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-certificate-service/" title="InCommon Certificate Service">InCommon Certificate Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-assurance-program" class="inactive-menu-item incommon-assurance-program-child">
+                                        <a class="inactive-menu-item-link incommon-assurance-program-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-assurance-program/" title="InCommon Assurance Program">InCommon Assurance Program</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-incommon-multifactor-authentication" class="inactive-menu-item incommon-multifactor-authentication-child">
+                                        <a class="inactive-menu-item-link incommon-multifactor-authentication-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/incommon-multifactor-authentication/" title="InCommon Multifactor Authentication">InCommon Multifactor Authentication</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-shibboleth" class="active-menu-item shibboleth-child">
+                                        <a class="active-menu-item-link shibboleth-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/shibboleth/" title="Shibboleth">Shibboleth</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-grouper" class="inactive-menu-item grouper-child">
+                                        <a class="inactive-menu-item-link grouper-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/grouper/" title="Grouper">Grouper</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-comanage" class="inactive-menu-item comanage-child">
+                                        <a class="inactive-menu-item-link comanage-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/comanage/" title="COmanage">COmanage</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-eduperson-eduorg" class="inactive-menu-item eduperson-eduorg-child">
+                                        <a class="inactive-menu-item-link eduperson-eduorg-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/eduperson-eduorg/" title="eduPerson &amp; eduOrg">eduPerson &amp; eduOrg</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-mace-registries" class="inactive-menu-item mace-registries-child">
+                                        <a class="inactive-menu-item-link mace-registries-child-link" href="http://www.internet2.edu/products-services/trust-identity-middleware/mace-registries/" title="MACE Registries">MACE Registries</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-performance-analytics" class="inactive-menu-item performance-analytics-child">
+                        <a class="inactive-menu-item-link performance-analytics-child-link" href="http://www.internet2.edu/products-services/performance-analytics/" title="Performance &amp; Analytics">Performance &amp; Analytics</a>
+                            
+                                
+                                
+                                <ul id="menu-performance-analytics" class="menu depth-2">
+                                    
+                                    <li id="menu-item-deepfield-analytics-service" class="inactive-menu-item deepfield-analytics-service-child">
+                                        <a class="inactive-menu-item-link deepfield-analytics-service-child-link" href="http://www.internet2.edu/products-services/performance-analytics/deepfield-analytics-service/" title="Deepfield Analytics Service">Deepfield Analytics Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance-assurance-service" class="inactive-menu-item performance-assurance-service-child">
+                                        <a class="inactive-menu-item-link performance-assurance-service-child-link" href="http://www.internet2.edu/products-services/performance-analytics/performance-assurance-service/" title="Performance Assurance Service">Performance Assurance Service</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance-tools" class="inactive-menu-item performance-tools-child">
+                                        <a class="inactive-menu-item-link performance-tools-child-link" href="http://www.internet2.edu/products-services/performance-analytics/performance-tools/" title="Performance Tools">Performance Tools</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-support" class="inactive-menu-item support-child">
+                        <a class="inactive-menu-item-link support-child-link" href="http://www.internet2.edu/products-services/support/" title="Support">Support</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-vision-initiatives" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/vision-initiatives/" title="Vision &amp; Initiatives">Vision &amp; Initiatives</a>
+            <!-- item vision-initiatives has depth 1 vs. 3 -->
+            
+                <!-- item vision-initiatives is less than depth -->
+                
+                
+                <!-- item vision-initiatives has children -->
+                <ul id="menu-vision-initiatives" class="menu depth-1">
+                    
+                    <li id="menu-item-executive-insights" class="inactive-menu-item executive-insights-child">
+                        <a class="inactive-menu-item-link executive-insights-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/" title="Executive Insights">Executive Insights</a>
+                            
+                                
+                                
+                                <ul id="menu-executive-insights" class="menu depth-2">
+                                    
+                                    <li id="menu-item-history-excellence" class="inactive-menu-item history-excellence-child">
+                                        <a class="inactive-menu-item-link history-excellence-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/history-excellence/" title="History of Excellence">History of Excellence</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-strategic-leadership" class="inactive-menu-item strategic-leadership-child">
+                                        <a class="inactive-menu-item-link strategic-leadership-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/strategic-leadership/" title="Strategic Leadership">Strategic Leadership</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-technology-advantage" class="inactive-menu-item technology-advantage-child">
+                                        <a class="inactive-menu-item-link technology-advantage-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/technology-advantage/" title="Technology Advantage">Technology Advantage</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-community-driven" class="inactive-menu-item community-driven-child">
+                                        <a class="inactive-menu-item-link community-driven-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/community-driven/" title="Community Driven">Community Driven</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-next-generation-solutions" class="inactive-menu-item next-generation-solutions-child">
+                                        <a class="inactive-menu-item-link next-generation-solutions-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/next-generation-solutions/" title="Next Generation Solutions">Next Generation Solutions</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-end-to-end-research-support" class="inactive-menu-item end-to-end-research-support-child">
+                                        <a class="inactive-menu-item-link end-to-end-research-support-child-link" href="http://www.internet2.edu/vision-initiatives/executive-insights/end-to-end-research-support/" title="End-to-End Research Support">End-to-End Research Support</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-governance" class="inactive-menu-item governance-child">
+                        <a class="inactive-menu-item-link governance-child-link" href="http://www.internet2.edu/vision-initiatives/governance/" title="Governance">Governance</a>
+                            
+                                
+                                
+                                <ul id="menu-governance" class="menu depth-2">
+                                    
+                                    <li id="menu-item-board-trustees" class="inactive-menu-item board-trustees-child">
+                                        <a class="inactive-menu-item-link board-trustees-child-link" href="http://www.internet2.edu/vision-initiatives/governance/board-trustees/" title="Board of Trustees">Board of Trustees</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-program-advisory-groups" class="inactive-menu-item program-advisory-groups-child">
+                                        <a class="inactive-menu-item-link program-advisory-groups-child-link" href="http://www.internet2.edu/vision-initiatives/governance/program-advisory-groups/" title="Program Advisory Groups">Program Advisory Groups</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-partnerships" class="inactive-menu-item partnerships-child">
+                        <a class="inactive-menu-item-link partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/" title="Partnerships">Partnerships</a>
+                            
+                                
+                                
+                                <ul id="menu-partnerships" class="menu depth-2">
+                                    
+                                    <li id="menu-item-industry-partnerships" class="inactive-menu-item industry-partnerships-child">
+                                        <a class="inactive-menu-item-link industry-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/industry-partnerships/" title="Industry Partnerships">Industry Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-international-partnerships" class="inactive-menu-item international-partnerships-child">
+                                        <a class="inactive-menu-item-link international-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/international-partnerships/" title="International Partnerships">International Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-network-partnerships" class="inactive-menu-item network-partnerships-child">
+                                        <a class="inactive-menu-item-link network-partnerships-child-link" href="http://www.internet2.edu/vision-initiatives/partnerships/network-partnerships/" title="Network Partnerships">Network Partnerships</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-initiatives" class="inactive-menu-item initiatives-child">
+                        <a class="inactive-menu-item-link initiatives-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/" title="Initiatives">Initiatives</a>
+                            
+                                
+                                
+                                <ul id="menu-initiatives" class="menu depth-2">
+                                    
+                                    <li id="menu-item-innovation-platform" class="inactive-menu-item innovation-platform-child">
+                                        <a class="inactive-menu-item-link innovation-platform-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/innovation-platform/" title="Innovation Platform">Innovation Platform</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-internet2-netplus" class="inactive-menu-item internet2-netplus-child">
+                                        <a class="inactive-menu-item-link internet2-netplus-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/internet2-netplus/" title="Internet2 NET+">Internet2 NET+</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-trust-identity-education-research" class="inactive-menu-item trust-identity-education-research-child">
+                                        <a class="inactive-menu-item-link trust-identity-education-research-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/trust-identity-education-research/" title="Trust &amp; Identity in Education &amp; Research">Trust &amp; Identity in Education &amp; Research</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-performance" class="inactive-menu-item performance-child">
+                                        <a class="inactive-menu-item-link performance-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/performance/" title="Performance">Performance</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-us-ucan" class="inactive-menu-item us-ucan-child">
+                                        <a class="inactive-menu-item-link us-ucan-child-link" href="http://www.internet2.edu/vision-initiatives/initiatives/us-ucan/" title="U.S. UCAN">U.S. UCAN</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-policy-issues" class="inactive-menu-item policy-issues-child">
+                        <a class="inactive-menu-item-link policy-issues-child-link" href="http://www.internet2.edu/vision-initiatives/policy-issues/" title="Policy Issues">Policy Issues</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-news-events" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/news-events/" title="News &amp; Events">News &amp; Events</a>
+            <!-- item news-events has depth 1 vs. 3 -->
+            
+                <!-- item news-events is less than depth -->
+                
+                
+                <!-- item news-events has children -->
+                <ul id="menu-news-events" class="menu depth-1">
+                    
+                    <li id="menu-item-news" class="inactive-menu-item news-child">
+                        <a class="inactive-menu-item-link news-child-link" href="http://www.internet2.edu/news-events/news/" title="News">News</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-events" class="inactive-menu-item events-child">
+                        <a class="inactive-menu-item-link events-child-link" href="http://www.internet2.edu/news-events/events/" title="Events">Events</a>
+                            
+                                
+                                
+                                <ul id="menu-events" class="menu depth-2">
+                                    
+                                    <li id="menu-item-global-summit" class="inactive-menu-item global-summit-child">
+                                        <a class="inactive-menu-item-link global-summit-child-link" href="http://www.internet2.edu/news-events/events/global-summit/" title="Global Summit">Global Summit</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-technology-exchange" class="inactive-menu-item technology-exchange-child">
+                                        <a class="inactive-menu-item-link technology-exchange-child-link" href="http://www.internet2.edu/news-events/events/technology-exchange/" title="Technology Exchange">Technology Exchange</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-workshops-webinars" class="inactive-menu-item workshops-webinars-child">
+                                        <a class="inactive-menu-item-link workshops-webinars-child-link" href="http://www.internet2.edu/news-events/events/workshops-webinars/" title="Workshops &amp; Webinars">Workshops &amp; Webinars</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-event-sponsorship" class="inactive-menu-item event-sponsorship-child">
+                                        <a class="inactive-menu-item-link event-sponsorship-child-link" href="http://www.internet2.edu/news-events/events/event-sponsorship/" title="Event Sponsorship">Event Sponsorship</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-past-events" class="inactive-menu-item past-events-child">
+                                        <a class="inactive-menu-item-link past-events-child-link" href="http://www.internet2.edu/news-events/events/past-events/" title="Past Events">Past Events</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-social-media" class="inactive-menu-item social-media-child">
+                        <a class="inactive-menu-item-link social-media-child-link" href="http://www.internet2.edu/news-events/social-media/" title="Social Media">Social Media</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+    <li id="menu-item-about-us" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/about-us/" title="About Us">About Us</a>
+            <!-- item about-us has depth 1 vs. 3 -->
+            
+                <!-- item about-us is less than depth -->
+                
+                
+                <!-- item about-us has children -->
+                <ul id="menu-about-us" class="menu depth-1">
+                    
+                    <li id="menu-item-membership" class="inactive-menu-item membership-child">
+                        <a class="inactive-menu-item-link membership-child-link" href="http://www.internet2.edu/about-us/membership/" title="Membership">Membership</a>
+                            
+                                
+                                
+                                <ul id="menu-membership" class="menu depth-2">
+                                    
+                                    <li id="menu-item-member-representative-roles" class="inactive-menu-item member-representative-roles-child">
+                                        <a class="inactive-menu-item-link member-representative-roles-child-link" href="http://www.internet2.edu/about-us/membership/member-representative-roles/" title="Member Representative Roles">Member Representative Roles</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-research-education-network-member-details" class="inactive-menu-item research-education-network-member-details-child">
+                                        <a class="inactive-menu-item-link research-education-network-member-details-child-link" href="http://www.internet2.edu/about-us/membership/research-education-network-member-details/" title="R&amp;E Network Member Details">R&amp;E Network Member Details</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-leadership" class="inactive-menu-item leadership-child">
+                        <a class="inactive-menu-item-link leadership-child-link" href="http://www.internet2.edu/about-us/leadership/" title="Leadership">Leadership</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-financial-overview" class="inactive-menu-item financial-overview-child">
+                        <a class="inactive-menu-item-link financial-overview-child-link" href="http://www.internet2.edu/about-us/financial-overview/" title="Financial Overview">Financial Overview</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-community-awards" class="inactive-menu-item community-awards-child">
+                        <a class="inactive-menu-item-link community-awards-child-link" href="http://www.internet2.edu/about-us/community-awards/" title="Community Awards">Community Awards</a>
+                            
+                                
+                                
+                                <ul id="menu-community-awards" class="menu depth-2">
+                                    
+                                    <li id="menu-item-rose-award" class="inactive-menu-item rose-award-child">
+                                        <a class="inactive-menu-item-link rose-award-child-link" href="http://www.internet2.edu/about-us/community-awards/rose-award/" title="Rose Award">Rose Award</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-presidents-leadership-award" class="inactive-menu-item presidents-leadership-award-child">
+                                        <a class="inactive-menu-item-link presidents-leadership-award-child-link" href="http://www.internet2.edu/about-us/community-awards/presidents-leadership-award/" title="President&#39;s Leadership Award">President&#39;s Leadership Award</a>
+                                            
+                                    </li>
+                                    
+                                    <li id="menu-item-gender-diversity-award" class="inactive-menu-item gender-diversity-award-child">
+                                        <a class="inactive-menu-item-link gender-diversity-award-child-link" href="http://www.internet2.edu/about-us/community-awards/gender-diversity-award/" title="Gender Diversity Award">Gender Diversity Award</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-staff-directory" class="inactive-menu-item staff-directory-child">
+                        <a class="inactive-menu-item-link staff-directory-child-link" href="http://www.internet2.edu/about-us/staff-directory/" title="Staff Directory">Staff Directory</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-careers" class="inactive-menu-item careers-child">
+                        <a class="inactive-menu-item-link careers-child-link" href="http://www.internet2.edu/about-us/careers/" title="Careers">Careers</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-media-kit" class="inactive-menu-item media-kit-child">
+                        <a class="inactive-menu-item-link media-kit-child-link" href="http://www.internet2.edu/about-us/media-kit/" title="Media Kit">Media Kit</a>
+                            
+                                
+                                
+                                <ul id="menu-media-kit" class="menu depth-2">
+                                    
+                                    <li id="menu-item-video-kit" class="inactive-menu-item video-kit-child">
+                                        <a class="inactive-menu-item-link video-kit-child-link" href="http://www.internet2.edu/about-us/media-kit/video-kit/" title="Video Kit">Video Kit</a>
+                                            
+                                    </li>
+                                    
+                                </ul>
+                                
+                                
+                            
+                    </li>
+                    
+                    <li id="menu-item-contact-us" class="inactive-menu-item contact-us-child">
+                        <a class="inactive-menu-item-link contact-us-child-link" href="http://www.internet2.edu/about-us/contact-us/" title="Contact Us">Contact Us</a>
+                            
+                                
+                                
+                                
+                            
+                    </li>
+                    
+                </ul>
+                
+                
+            
+    </li>
+    
+</ul>
+
+
+
+
+
+
+
+                
+          </nav>
+          <nav id="minFooterNav" class="minFooterNav">
+              <span class="copyright">&copy; 2014 - Internet2 </span>
+              <ul id="menu-internet2-footer" class="menu depth-0">
+    
+    <li id="menu-item-sitemap" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/sitemap/" title="Sitemap">Sitemap</a>
+        
+    </li>
+    
+    <li id="menu-item-privacy" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/policies/privacy/" title="Privacy">Privacy</a>
+        
+    </li>
+    
+    <li id="menu-item-terms-of-use" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/policies/terms-of-use/" title="Terms of Use">Terms of Use</a>
+        
+    </li>
+    
+    <li id="menu-item-contact" class="inactive-menu-item top-level">
+        <a class="inactive-menu-item-link top-level-link" href="http://www.internet2.edu/about-us/contact-us/" title="Contact us">Contact us</a>
+        
+    </li>
+    
+</ul>
+          </nav>
+      </div> <!-- /footerContents -->
+  </footer>
+  <script type="text/javascript" src="/static/CACHE/js/20767e6141d4.js"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-349565-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+  
+<script type="text/javascript" src="/static/js/libs/jquery.selectbox.min.js"></script>
+<script>
+    // init product subpage utilities
+    subUtils.init();
+    filterSubpage.init();
+    video.inlineVideo();
+</script>
+
+</body>
+</html>

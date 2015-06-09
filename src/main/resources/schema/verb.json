@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "additionalProperties": false,
+    "type": "object" ,
+    "javaType": "Verb",
+    "properties": {
+        "id": { "type": "string"},
+        "display": { "type": "object",  "javaType" : "java.util.Map<String,String>"}
+    }
+}
